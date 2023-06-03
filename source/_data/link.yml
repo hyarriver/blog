@@ -1,10 +1,8 @@
 - class_name: 0.推荐网站🍔
   class_desc: 这里是最熟悉的小伙伴或者赞助商，当然是最前排啦
-  link_list: 
-    - name: Fomalhaut🥝
+  link_list:
+    - name: hyarriver🦀
       link: https://www.fomal.cc/
-      avatar: https://www.fomal.cc/assets/avatar.webp
+      avatar: https://avatars.githubusercontent.com/u/117428024?s=400&u=242f12ee942cf617ff9d771521c9d6639e2cdaf5&v=4
       descr: Future is now 🍭🍭🍭
       siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
-
-
