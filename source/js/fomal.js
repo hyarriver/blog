@@ -54,7 +54,7 @@ function tonav() {
     position = scroll;
   });
   //修复没有弄右键菜单的童鞋无法回顶部的问题
-  document.getElementById("page-name").innerText = document.title.split(" | Fomalhaut🥝")[0];
+  document.getElementById("page-name").innerText = document.title.split(" | hyarriver 🦀")[0];
 }
 
 function scrollToTop() {
@@ -674,8 +674,8 @@ if (document.body.clientWidth > 992) {
         zoom: 0.9,
         borderRadius: 5 + 'px',
         right: 55.6 + 'px',
-        nekoImg: "https://bu.dusays.com/2022/07/20/62d812db74be9.png",
-        hoverMsg: "春天啦~",
+        nekoImg: "https://img.zcool.cn/community/01f09f5965d12ca8012193a3035b2f.gif",
+        hoverMsg: "ok!",
         color: "var(--theme-color)",
         during: 500,
         blog_body: "body",
@@ -1119,21 +1119,15 @@ function createtime1() {
   var dnum = Math.floor(days);
 
   var ascll = [
-    `欢迎来到hyarriver🦀の小家!`,
-    `Future is now 🍭🍭🍭`,
+    `欢迎来到hyarriver🥝の小家!`,
+    `在到达之前，一切都是过程`,
     `
-        
-███████  ██████  ███    ███  █████  ██      ██   ██  █████  ██    ██ ████████ 
-██      ██    ██ ████  ████ ██   ██ ██      ██   ██ ██   ██ ██    ██    ██    
-█████   ██    ██ ██ ████ ██ ███████ ██      ███████ ███████ ██    ██    ██    
-██      ██    ██ ██  ██  ██ ██   ██ ██      ██   ██ ██   ██ ██    ██    ██    
-██       ██████  ██      ██ ██   ██ ███████ ██   ██ ██   ██  ██████     ██   
-                                              
+  🅷🆈🅰🆁🆁🅸🆅🅴🆁
 `,
     "小站已经苟活",
     dnum,
     "天啦!",
-    "©2022 By Fomalhaut",
+    "©2022 By hyarriver",
   ];
 
   setTimeout(
@@ -1172,7 +1166,7 @@ function createtime2() {
   setTimeout(
     console.warn.bind(
       console,
-      "%c ⚡ Powered by Fomalhaut🥝 %c 你正在访问Fomalhaut🥝の小家",
+      "%c ⚡ Powered by hyarriver 🦀 %c 你正在访问hyarriver 🦀の小家",
       "color:white; background-color:#f0ad4e",
       ""
     )
@@ -1282,8 +1276,8 @@ function share_() {
   try {
     // 截取标题
     var title = document.title;
-    var subTitle = title.endsWith("| Fomalhaut🥝") ? title.substring(0, title.length - 14) : title;
-    navigator.clipboard.writeText('Fomalhaut🥝的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');
+    var subTitle = title.endsWith("| hyarriver 🦀") ? title.substring(0, title.length - 14) : title;
+    navigator.clipboard.writeText('hyarriver 🦀的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');
     new Vue({
       data: function () {
         this.$notify({

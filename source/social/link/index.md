@@ -27,9 +27,9 @@ type: 'link'
   "title": "hyarriver 🦀",
   "screenshot": "https://source.fomal.cc/siteshot/www.fomal.cn.jpg",
   "url": "https://www.fomal.cc/",
-  "avatar": " https://avatars.githubusercontent.com/u/117428024?s=400&u=242f12ee942cf617ff9d771521c9d6639e2cdaf5&v=4",
-  "description": "Future is now 🍭🍭🍭",
-  "keywords": "Fomalhaut🥝"
+  "avatar": " https://avatars.githubusercontent.com/u/117428024?v=4",
+  "description": "Before leaving the world, everything is a process",
+  "keywords": "hyarriver 🦀"
 }
 ```
 

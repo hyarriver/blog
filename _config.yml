@@ -5,8 +5,8 @@
 # Site
 title: hyarriver 🦀
 subtitle:
-description: '66666666666666'
-keywords: 'Java,MySQL,算法,代码,博客,Butterfly,Hexo,hyarriver 🦀,Fomalhaut'
+description: '离开这个世界之前，一切都是一个过程'
+keywords: 'Java,MySQL,算法,代码,博客,Butterfly,Hexo,hyarriver 🦀'
 author: hyarriver 🦀
 language: zh-CN
 timezone: ''
@@ -263,22 +263,22 @@ magnet:
   devide: 3
   display:
     - name: 算法
-      display_name: 小Fの算法学习笔记
+      display_name: 小Hの算法学习笔记
       icon: 🍡
     - name: 计算机基础
-      display_name: 小Fの计算机基础笔记
+      display_name: 小Hの计算机基础笔记
       icon: 🍼
     - name: 魔改教程
-      display_name: 小Fの博客魔改教程
+      display_name: 小Hの博客魔改教程
       icon: 🍉
     - name: Java基础
-      display_name: 小FのJava基础笔记
+      display_name: 小HのJava基础笔记
       icon: 🍟
     - name: 数据库
-      display_name: 小Fの数据库笔记
+      display_name: 小Hの数据库笔记
       icon: 🍨
     - name: 演示
-      display_name: 小Fの案例演示笔记
+      display_name: 小Hの案例演示笔记
       icon: 🍥
   color_setting:
     text_color: black # 文字默认颜色
